@@ -3,7 +3,6 @@
  *
  * DirectAdmin API implementation
  *
- * @author Maarten Natzijl, Yousoft Marketing & Internet <maarten@yousoft.nl>
  * @version 0.1
  * @link http://www.directadmin.com/api.html
  *
